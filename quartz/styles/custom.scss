@@ -1,0 +1,16 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+html {
+	font-size: 17px;
+}
+
+:is(h1, h2, h3, h4, h5) a {
+	border-bottom: unset !important;
+
+	&:hover {
+    color: var(--secondary) !important;
+    background-color: transparent !important;
+  }
+}
