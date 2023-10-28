@@ -2,8 +2,13 @@
 
 // put your custom CSS here!
 
+
 html {
 	font-size: 17px;
+
+	@media screen and (hover: none) and (pointer: coarse) {
+		font-size: 14px;
+	}
 }
 
 :is(h1, h2, h3, h4, h5) a {
