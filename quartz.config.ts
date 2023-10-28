@@ -7,7 +7,7 @@ const config: QuartzConfig = {
 
     enablePopovers: true,
     analytics: null,
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "slmnzk.github.io/vault",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     
