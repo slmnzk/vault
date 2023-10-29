@@ -21,7 +21,7 @@ const config: QuartzConfig = {
         // Whos fuck use light mode?
         lightMode: {
           light: "#000000", // Background
-          lightgray: "#393639", // Borders
+          lightgray: "#121311", // Borders
           gray: "#646464", // Graphs Link, Heavier Borders
           darkgray: "#ccc", // Body text
           dark: "#ebebec", // Header text and icons

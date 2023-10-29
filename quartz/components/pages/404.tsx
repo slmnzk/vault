@@ -4,7 +4,7 @@ function NotFound() {
   return (
     <article class="popover-hint">
       <h1>404</h1>
-      <p>Either this page is private or doesn't exist.</p>
+      <p>Hello, stranger. I used to be an adventurer like you. Then i took an arrow in knee...</p>
     </article>
   )
 }

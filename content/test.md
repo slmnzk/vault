@@ -271,6 +271,14 @@ tell application "Foo"
 end tell
 ```
 
+```js
+function foo(bar) {
+	console.log(bar);
+}
+
+foo("Hello, world!");
+```
+
 ## Span Elements
 
 ### Links
