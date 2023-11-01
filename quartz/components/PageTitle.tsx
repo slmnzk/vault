@@ -17,7 +17,7 @@ PageTitle.css = `
 }
 
 .page-title a {
-	color: white;
+	color: black;
 	background-color: var(--secondary);
 }
 `

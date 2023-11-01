@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "slmnzk.space",
+    pageTitle: "slmnzk.space▲",
 
     enablePopovers: true,
     analytics: null,
@@ -25,8 +25,8 @@ const config: QuartzConfig = {
           gray: "#646464", // Graphs Link, Heavier Borders
           darkgray: "#ccc", // Body text
           dark: "#ebebec", // Header text and icons
-          secondary: "#ff2e88", // Link colour, current graph node
-          tertiary: "#ff9800", // Hover states and visited nodes
+          secondary: "#92d7fa", // Link colour, current graph node
+          tertiary: "#fab592", // Hover states and visited nodes
           highlight: "rgba(143, 159, 169, 0.15)", // Internal link background, highlighted text
         },
         darkMode: {
